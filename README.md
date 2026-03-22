@@ -118,4 +118,4 @@ This project is built with the same spirit as that film: Made in India, built fo
 
 ---
 
-*Make in India*
+**Make in India**
