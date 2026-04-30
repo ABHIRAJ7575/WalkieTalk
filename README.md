@@ -5,7 +5,7 @@ Welcome to **WalkieTalk** — a push-to-talk Android app that makes you feel lik
 Built by **Badmoosh** (legal name: Abhiraj, used exclusively by recruiters and disappointed relatives), this was my first Android project. Most people start with "Hello World." I started with real-time audio streaming over Firebase because apparently I have a problem with taking things at a normal pace. Zero to sixty. Straight into production. Classic me.
 
 ---
-Check APK in your Android: [![G-Drive](https://img.shields.io/badge/G--Drive-Access%20Files-1a1a1a?style=for-the-badge&logo=googledrive&logoColor=4285F4)](https://drive.google.com/drive/folders/11m4o6RySahhOKAqYPmHxYwkOrEYOsTeX?usp=sharing)
+Check APK in your Android Devices: [![G-Drive](https://img.shields.io/badge/G--Drive-Access%20Files-1a1a1a?style=for-the-badge&logo=googledrive&logoColor=4285F4)](https://drive.google.com/drive/folders/11m4o6RySahhOKAqYPmHxYwkOrEYOsTeX?usp=sharing)
 
 ## Why Does This App Exist?
 
